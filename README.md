@@ -10,4 +10,5 @@ Next Dental EMR is a dental electronic medical records (EMR) application built w
 - Next.js.
 - Tailwind CSS.
 - ShadCN/UI.
-  💡 The current focus is on the frontend, which is the area I’m actively developing right now.
+
+💡 The current focus is on the frontend, which is the area I’m actively developing right now.
