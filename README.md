@@ -1,5 +1,5 @@
 # Next Dental EMR
-## Nickname: Ibtesama: A smile, in Arabic.
+**Nickname: Ibtesama: A smile, in Arabic.**
 
 This project demonstrates the two fields I have experience in - frontend web development, which I’ve studied for nearly two years, and health informatics, the field I got training in.
 
